@@ -3,6 +3,12 @@ public class Student {
 
 	String receiver,dob,created_at,phone_number,id;
 
+	/*changes made here
+	 * and here
+	 * Alert !!!!!!!!
+	 */
+	
+	
 	public String getReceiver() {
 		return receiver;
 	}
@@ -42,7 +48,4 @@ public class Student {
 	public void setId(String id) {
 		this.id = id;
 	} 
-	
-	
-	
 }
